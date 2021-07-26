@@ -1,7 +1,7 @@
 # SimpleXTreeReleases
 
 This page contains SimpleXTree official releases of SimpleXTree.
-The latest binary version is 0.0 and can be downloaded: https://github.com/ryan-de-boer/SimpleXTreeReleases/raw/main/SimpleXTree%200.0.7z
+The latest binary version is 0.1 and can be downloaded: https://github.com/ryan-de-boer/SimpleXTreeReleases/raw/main/SimpleXTree%200.1.7z
 
 You can find the source code here: https://github.com/ryan-de-boer/SimpleXTree
 
