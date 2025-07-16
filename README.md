@@ -1,7 +1,8 @@
 # SimpleXTreeReleases
 
 This page contains SimpleXTree official releases of SimpleXTree.
-The latest binary version is 0.1 and can be downloaded: https://github.com/ryan-de-boer/SimpleXTreeReleases/raw/main/SimpleXTree%200.1.7z
+The latest binary version is 0.2 Debug and can be downloaded: https://github.com/ryan-de-boer/SimpleXTreeReleases/raw/refs/heads/main/SimpleXTree%200.2%20Debug.7z
+0.1 and can be downloaded: https://github.com/ryan-de-boer/SimpleXTreeReleases/raw/main/SimpleXTree%200.1.7z
 Note: Needs to run as administrator mode in Windows 11!
 
 You can find the source code here: https://github.com/ryan-de-boer/SimpleXTree
