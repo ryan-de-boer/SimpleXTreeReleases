@@ -10,7 +10,7 @@ You can find the archive of freeware eXtreme here: [EXTREME xtree archive.7z](ht
 
 Note: Only basic browsing is implemented, eg you can't create folders copy or move files.
 
-Only tested on 64 bit windows 10.
+Only tested on 64 bit windows 11.
 
 Here is how it looks:
 
